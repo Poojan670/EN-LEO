@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "159346301438",
+    "firebase_url": "https://en-leo.firebaseio.com",
+    "project_id": "en-leo",
+    "storage_bucket": "en-leo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159346301438:android:49b27da2051e244d",
+        "android_client_info": {
+          "package_name": "com.gamecodeschool.en_leo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159346301438-qj4ta0h3iba1fieffivgefc8ldo063rp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gamecodeschool.en_leo",
+            "certificate_hash": "01fcaa30c9c43a691ba927d1edc6051ecbc5a252"
+          }
+        },
+        {
+          "client_id": "159346301438-p25ab5j9akuadp0gljloid6iohjmtqmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD4SC0psQg61x4H-Xk_E2w3vEwf3khB_Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159346301438-p25ab5j9akuadp0gljloid6iohjmtqmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
